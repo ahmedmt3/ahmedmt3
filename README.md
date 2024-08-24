@@ -1,9 +1,7 @@
 <h2>👋 Hi, I’m Ahmed Mohamed Tahir</h2>
 
 - 👀 Interested in Mobile App Development.
-- 📫 Reach me on <a href="https://www.linkedin.com/in/ahmedmt/" target="_blank">
-    <img src="https://icons.ly/linkedin/#0A66C2" alt="dart" width="20" height="20"/>
-  </a>
+- 📫 Reach me on <a href="https://www.linkedin.com/in/ahmedmt/" target="_blank">LinkedIn</a>
 - 💬 Ask me about **Dart, Flutter, and Cross-Platform applications**
 
 <h3 align="left">Languages and Tools:</h3>
