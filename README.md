@@ -1,4 +1,6 @@
-<h2>👋 Hi, I’m Ahmed Mohamed Tahir</h2>
+# 👋 Hi, I’m Ahmed Mohamed Tahir
+
+![](https://komarev.com/ghpvc/?username=ahmedmt3)
 
 - 👀 Interested in Mobile App Development.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/ahmedmt/" target="_blank">LinkedIn</a>
