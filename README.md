@@ -6,7 +6,7 @@
 - 📫 Reach me on <a href="https://www.linkedin.com/in/ahmedmt/" target="_blank">LinkedIn</a>
 - 💬 Ask me about **Dart, Flutter, and Cross-Platform applications**
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmt3)](https://github.com/ahmedmt3/my-github-readme-stats)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmt3)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
