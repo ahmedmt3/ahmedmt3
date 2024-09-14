@@ -7,11 +7,9 @@
 - 💬 Ask me about **Dart, Flutter, and Cross-Platform applications**
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmt3" alt="ahmed's profile trophy" />
-
-<div style="display: flex; align-items: center; height: 150px;">
-    <img alt="Ahmed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedmt3&show_icons=true&theme=dark" />
-    <img alt="Ahmed's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmt3&layout=compact&theme=dark" />
+<div style="display: flex; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedmt3&show_icons=true&theme=dark" alt="Ahmed's GitHub stats" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmt3&layout=compact&theme=dark" alt="Ahmed's Top Langs" style="height: 90%;"/>
 </div>
 
 
